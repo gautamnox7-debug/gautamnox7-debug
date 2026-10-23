@@ -9,13 +9,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Next-Gen+Apps+with+AI;Prompt+Engineering+%26+Autonomous+Agents;Turning+Ideas+Into+Reality+Using+AI;Student+%26+Passionate+Tech+Explorer" alt="Typing SVG" />
   </a>
 
-</div>
+  <br/><br/>
 
-<br/>
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=gautamnox7-debug&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gautamnox7-debug&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <br/>
