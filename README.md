@@ -13,6 +13,13 @@
 
 <br/>
 
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gautamnox7-debug&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
 ---
 
 ### 🚀 About Me
@@ -73,6 +80,25 @@ status: Building, learning, and automating the future
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamnox7-debug&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 
+</div>
+
+---
+
+### 🐍 Contribution Activity Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gautamnox7-debug/gautamnox7-debug/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gautamnox7-debug/gautamnox7-debug/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gautamnox7-debug/gautamnox7-debug/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Quote of the Day -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech & AI Quotes" />
 </div>
 
 ---

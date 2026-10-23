@@ -1,0 +1,30 @@
+name: Daily GitHub Streak & AI Insight
+
+on:
+  schedule:
+    - cron: "15 3 * * *" # Runs daily at 03:15 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Daily AI Insight
+        run: |
+          mkdir -p .streak
+          echo "Last Active Date: $(date -u)" > .streak/activity.log
+          echo "Status: System active and learning." >> .streak/activity.log
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add .streak/activity.log
+          git commit -m "chore(streak): daily automated activity check [$(date +'%Y-%m-%d')]" || exit 0
+          git push
